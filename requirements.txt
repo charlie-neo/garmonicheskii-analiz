@@ -1,0 +1,6 @@
+streamlit==1.64.0
+tensorflow==2.21.0
+scikit-learn==1.7.2
+music21==9.9.2
+numpy
+joblib
